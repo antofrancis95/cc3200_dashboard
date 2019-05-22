@@ -28,10 +28,8 @@ char tdata[10];
 char Accl_read[50];
 
 // your network name also called SSID
-//char ssid[] = "Datasemantics";
 char ssid[] = "Nokia 7 plus";
 // your network password
-//char password[] = "D@ta#sem@nticz";
 char password[] = "asdfghjk";
 // MQTTServer to use
 char server[] = "192.168.43.68";
